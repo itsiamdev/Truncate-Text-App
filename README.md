@@ -10,7 +10,7 @@ A simple and efficient web application that allows you to truncate text to a spe
 - **Copy Button**: Easily copy the output to clipboard 📋
 
 ## Live Demo 🌐
-Check out the live version here: [https://iam269.github.io/Truncate-Text-App/](https://iam269.github.io/Truncate-Text-App/)
+Check out the live version here: [https://itsiamdev.github.io/Truncate-Text-App/](https://itsiamdev.github.io/Truncate-Text-App/)
 
 ## How to Use 📖
 1. Enter your text in the "Input Text" area
